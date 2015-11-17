@@ -2,8 +2,8 @@ execute pathogen#infect()
 
 colorscheme busierbee
 
-"let g:indentLine_enabled = 1
-"let g:indentLine_color_term = 131
+let g:indentLine_enabled = 1
+let g:indentLine_color_term = 131
 
 " Nerd Tree
 map <C-n> : NERDTreeToggle<CR>
